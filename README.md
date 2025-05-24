@@ -7,12 +7,12 @@ Hey, warehouse champs! Struggling to keep tabs on your shoe stock? Our Shoe Inve
 Follow these steps to set up the Shoe Inventory Management System locally:
 
 1. **Fork the repository**:
-   - Click the 'Fork' button at the top right corner of the [repository's GitHub page](https://github.com/XolaniGatebe/shoe-inventory.py).
+   - Click the 'Fork' button at the top right corner of the [repository's GitHub page](https://github.com/XolaniGatebe/Inventory-Manager-System.git).
    - This creates a copy in your GitHub account.
 
 2. **Clone your forked repository**:
      ```bash
-     git clone https://github.com/XolaniGatebe/shoe-inventory.py.git
+     git clone https://github.com/XolaniGatebe/Inventory-Manager-System.git
      ```
    - Navigate to the directory:
      ```bash
