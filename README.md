@@ -1,7 +1,7 @@
 # Shoe Inventory Management System
 
 ## About
-Hey, warehouse champs! Struggling to keep tabs on your shoe stock? Our Shoe Inventory Management System is your new best friend. Built with Python during HyperionDev’s Data Science Bootcamp, this CLI app makes inventory a breeze—add, delete, restock, or search shoes with ease, all stored in a simple CSV file (`inventory.txt`). Need to spot low stock or calculate total stock value? We’ve got you covered with features like restocking alerts and value-per-item breakdowns. Perfect for store managers, it’s easy to use and saves you time. Got questions? Drop an issue on our GitHub repo, and let’s keep your warehouse running smooth!
+Hey, warehouse champs! Struggling to keep tabs on your shoe stock? Our Shoe Inventory Management System is your new best friend. This CLI app makes inventory a breeze—add, delete, restock, or search shoes with ease, all stored in a simple CSV file (`inventory.txt`). Need to spot low stock or calculate total stock value? We’ve got you covered with features like restocking alerts and value-per-item breakdowns. Perfect for store managers, it’s easy to use and saves you time. Got questions? Drop an issue on our GitHub repo, and let’s keep your warehouse running smooth!
 
 ## Setup
 Follow these steps to set up the Shoe Inventory Management System locally:
