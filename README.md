@@ -13,19 +13,11 @@ Follow these steps to set up the Shoe Inventory Management System locally:
 2. **Clone your forked repository**:
      ```bash
      git clone https://github.com/XolaniGatebe/Inventory-Manager-System.git
-     ```
-   - Navigate to the directory:
-     ```bash
-     cd shoe-inventory
-     ```
+
 
 3. **Install Python libraries**:
    - Ensure Python 3.8+ is installed (`python --version` or `python3 --version`).
    - No external libraries are required (uses standard `csv` module), but check `requirements.txt` if added:
-     ```bash
-     pip install -r requirements.txt
-     ```
-     - Note: If `requirements.txt` is empty or absent, skip this step.
 
 4. **Run the application**:
    - Execute the main script:
